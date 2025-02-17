@@ -4,7 +4,7 @@ import DashApp from "./dashApp";
 import registerServiceWorker from "./registerServiceWorker";
 import { Router as BrowserRouter } from "react-router-dom";
 import { createRoot } from "react-dom/client";
-import "antd/dist/reset.css";
+// import "antd/dist/reset.css";
 import { emptyCache } from "./helpers/utility";
 
 const container = document.getElementById("root");

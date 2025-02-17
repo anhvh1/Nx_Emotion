@@ -11,7 +11,6 @@ const trashIcon = new L.Icon({
   iconAnchor: [16, 32],
   popupAnchor: [0, -32],
 });
-
 // 📌 Danh sách tọa độ các thùng rác
 const trashBins = [
   { id: 1, position: [10.9, 106.9], status: "80%" },
@@ -21,31 +20,32 @@ const trashBins = [
 
 export default function TrashMap() {
   return (
-    <MapWrapper className="map-container">
-      <MapContainer
-        center={[10.9, 106.9]}
-        zoom={22}
-        // style={{ height: "500px", width: "100%" }}
-        className="fullmap"
-      >
-        {/* Lớp bản đồ */}
-        {/* <TileLayer
-          url="https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}"
-          attribution="© Google Maps"
-        /> */}
-        {/* <TileLayer
-          url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
-          attribution="© Carto"
-        /> */}
-        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+    <>123123123</>
+    // <MapWrapper className="map-container">
+    //   <MapContainer
+    //     center={[10.9, 106.9]}
+    //     zoom={22}
+    //     // style={{ height: "500px", width: "100%" }}
+    //     className="fullmap"
+    //   >
+    //     {/* Lớp bản đồ */}
+    //     {/* <TileLayer
+    //       url="https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}"
+    //       attribution="© Google Maps"
+    //     /> */}
+    //     {/* <TileLayer
+    //       url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
+    //       attribution="© Carto"
+    //     /> */}
+    //     <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
 
-        {/* 🗑️ Render các thùng rác */}
-        {trashBins.map((bin) => (
-          <Marker key={bin.id} position={bin.position} icon={trashIcon}>
-            <Popup>Thùng rác đầy: {bin.status}</Popup>
-          </Marker>
-        ))}
-      </MapContainer>
-    </MapWrapper>
+    //     {/* 🗑️ Render các thùng rác */}
+    //     {trashBins.map((bin) => (
+    //       <Marker key={bin.id} position={bin.position} icon={trashIcon}>
+    //         <Popup>Thùng rác đầy: {bin.status}</Popup>
+    //       </Marker>
+    //     ))}
+    //   </MapContainer>
+    // </MapWrapper>
   );
 }
