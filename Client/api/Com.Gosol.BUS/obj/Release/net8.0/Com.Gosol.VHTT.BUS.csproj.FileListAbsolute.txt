@@ -1,0 +1,63 @@
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.deps.json
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.DAL.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Models.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Security.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.DAL.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Models.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Security.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.csproj.CopyComplete
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\ref\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.deps.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.DAL.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Models.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Security.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.DAL.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Models.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Security.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Goso.E18DC2AF.Up2Date
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\ref\Com.Gosol.VHTT.BUS.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.deps.json
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.BUS.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.DAL.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Models.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Security.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.DAL.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Models.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Security.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Release\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Goso.E18DC2AF.Up2Date
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\Com.Gosol.VHTT.BUS.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Release\net8.0\ref\Com.Gosol.VHTT.BUS.dll

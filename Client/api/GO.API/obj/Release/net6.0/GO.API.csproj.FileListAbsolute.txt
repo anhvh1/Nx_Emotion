@@ -1,0 +1,519 @@
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\appsettings.Development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\appsettings.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\GO.API.exe
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\GO.API.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\GO.API.runtimeconfig.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\AutoMapper.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Castle.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\EPPlus.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\ExcelDataReader.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\ExcelDataReader.DataSet.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Grpc.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Grpc.Core.Api.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\MySqlConnector.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Pomelo.JsonObject.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\RestSharp.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\ICSharpCode.SharpZipLib.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.BUS.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.Security.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.BUS.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Release\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\staticwebassets.build.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\staticwebassets.development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.csproj.CopyComplete
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Release\net6.0\GO.API.genruntimeconfig.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\appsettings.Development.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\appsettings.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.exe
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.deps.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.runtimeconfig.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\AutoMapper.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Castle.Core.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\EPPlus.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\ExcelDataReader.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Grpc.Core.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Grpc.Core.Api.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\MySqlConnector.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Pomelo.JsonObject.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\RestSharp.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.BUS.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.DAL.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Models.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Security.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Ultilities.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.BUS.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.DAL.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Models.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Security.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Ultilities.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.csproj.AssemblyReference.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.AssemblyInfoInputs.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.AssemblyInfo.cs
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.csproj.CoreCompileInputs.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\scopedcss\bundle\GO.API.styles.css
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.csproj.CopyComplete
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\refint\GO.API.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.genruntimeconfig.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Release\net6.0\ref\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.AssemblyInfo.cs
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\appsettings.Development.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\appsettings.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\UploadFiles\web.config
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.exe
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.deps.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.runtimeconfig.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\GO.API.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\AutoMapper.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Castle.Core.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\EPPlus.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\ExcelDataReader.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\ExcelDataReader.DataSet.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Spire.Doc.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Spire.Pdf.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\GroupDocs.Viewer.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Grpc.Core.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Grpc.Core.Api.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.Office.Interop.Word.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\MySqlConnector.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Pomelo.JsonObject.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\RestSharp.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\ICSharpCode.SharpZipLib.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\SkiaSharp.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Drawing.Common.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.IO.Packaging.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.BUS.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.DAL.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Models.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Security.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Ultilities.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Workflow.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.BUS.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Ultilities.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.DAL.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Models.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Com.Gosol.KNTC.Security.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Release\net6.0\Workflow.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\staticwebassets.build.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\staticwebassets.development.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.csproj.CopyComplete
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\refint\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\GO.API.genruntimeconfig.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Release\net6.0\ref\GO.API.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\UploadFiles\web.config
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\appsettings.Development.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\appsettings.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\GO.API.exe
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\GO.API.deps.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\GO.API.runtimeconfig.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\GO.API.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\GO.API.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\AutoMapper.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Castle.Core.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\EPPlus.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\ExcelDataReader.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\ExcelDataReader.DataSet.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Spire.Doc.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Spire.Pdf.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\GroupDocs.Viewer.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Grpc.Core.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Grpc.Core.Api.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.Office.Interop.Word.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\MySqlConnector.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Pomelo.JsonObject.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\RestSharp.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\ICSharpCode.SharpZipLib.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\SkiaSharp.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Drawing.Common.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.IO.Packaging.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.DAL.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Models.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Security.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Ultilities.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.DAL.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Models.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Security.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.AssemblyInfo.cs
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\staticwebassets.build.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\staticwebassets.development.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.csproj.CopyComplete
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\refint\GO.API.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\GO.API.genruntimeconfig.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\ref\GO.API.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.GO.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.build.GO.API.props
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.GO.API.props
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.GO.API.props
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\obj\Release\net6.0\staticwebassets.pack.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\ClosedXML.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\ExcelNumberFormat.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Irony.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\SixLabors.Fonts.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\XLParser.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Text.Json.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Enums.NET.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\MathNet.Numerics.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\NPOI.Core.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\NPOI.OOXML.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\NPOI.OpenXml4Net.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\NPOI.OpenXmlFormats.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\SixLabors.ImageSharp.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\GO.API\bin\Release\net6.0\System.Security.Cryptography.Xml.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\UploadFiles\web.config
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\appsettings.Development.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\appsettings.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\GO.API.exe
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\GO.API.deps.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\GO.API.runtimeconfig.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\GO.API.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\GO.API.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\AutoMapper.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Castle.Core.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\ClosedXML.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Enums.NET.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\EPPlus.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\ExcelDataReader.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\ExcelDataReader.DataSet.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\ExcelNumberFormat.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Spire.Doc.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Spire.Pdf.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\GroupDocs.Viewer.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Grpc.Core.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Grpc.Core.Api.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Irony.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\MathNet.Numerics.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.Office.Interop.Word.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\MySqlConnector.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\NPOI.Core.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\NPOI.OOXML.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\NPOI.OpenXml4Net.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\NPOI.OpenXmlFormats.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Pomelo.JsonObject.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\RestSharp.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\ICSharpCode.SharpZipLib.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\SixLabors.Fonts.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\SixLabors.ImageSharp.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\SkiaSharp.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.IO.Packaging.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Security.Cryptography.Xml.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Text.Json.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\XLParser.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.DAL.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Models.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Security.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Ultilities.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.DAL.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Models.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\bin\Release\net6.0\Com.Gosol.VHTT.Security.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.AssemblyInfo.cs
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\staticwebassets.build.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\staticwebassets.development.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.GO.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.build.GO.API.props
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.GO.API.props
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.GO.API.props
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\staticwebassets.pack.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.csproj.Up2Date
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\refint\GO.API.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\GO.API.genruntimeconfig.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\GO.API\obj\Release\net6.0\ref\GO.API.dll

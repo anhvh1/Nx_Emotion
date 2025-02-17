@@ -1,0 +1,130 @@
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.deps.json
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Workflow.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Workflow.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CopyComplete
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\SoureCode\VHTT\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\ref\Com.Gosol.VHTT.BUS.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.deps.json
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.pdb
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.pdb
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.pdb
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CopyComplete
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\NET cty\Vanhoathethao\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\ref\Com.Gosol.VHTT.BUS.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.deps.json
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CopyComplete
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\ref\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.deps.json
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CopyComplete
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\SoureCode\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\ref\Com.Gosol.VHTT.BUS.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.deps.json
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.pdb
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.pdb
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.pdb
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CopyComplete
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\refint\Com.Gosol.VHTT.BUS.dll
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+E:\QuanLyVanHoa_Company\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\ref\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.deps.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.DAL.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Models.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Security.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\bin\Debug\net6.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.AssemblyReference.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfoInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.AssemblyInfo.cs
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.csproj.CoreCompileInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Goso.E18DC2AF.Up2Date
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\refint\Com.Gosol.VHTT.BUS.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\Com.Gosol.VHTT.BUS.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.BUS\obj\Debug\net6.0\ref\Com.Gosol.VHTT.BUS.dll

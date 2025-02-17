@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Com.Gosol.KNTC.DAL</id>
+    <version>1.0.0</version>
+    <authors>Com.Gosol.KNTC.DAL</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Com.Gosol.KNTC.Models" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Com.Gosol.KNTC.Security" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Com.Gosol.KNTC.Ultilities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="10.1.1" exclude="Build,Analyzers" />
+        <dependency id="EPPlus" version="4.5.3.2" exclude="Build,Analyzers" />
+        <dependency id="ExcelDataReader.DataSet" version="3.6.0" exclude="Build,Analyzers" />
+        <dependency id="FreeSpire.Doc" version="10.8.0" exclude="Build,Analyzers" />
+        <dependency id="Grpc.Core" version="2.24.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Hosting.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Office.Interop.Word" version="15.0.4797.1004" exclude="Build,Analyzers" />
+        <dependency id="MySqlConnector" version="0.60.1" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="3.0.0-rc1.final" exclude="Build,Analyzers" />
+        <dependency id="SharpZipLib" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.KNTC.DAL\bin\Release\net6.0\Com.Gosol.KNTC.DAL.dll" target="lib\net6.0\Com.Gosol.KNTC.DAL.dll" />
+  </files>
+</package>

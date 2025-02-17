@@ -1,0 +1,12 @@
+D:\TuanDHH\NX\API\Com.Gosol.Security\bin\Release\net8.0\Com.Gosol.Security.deps.json
+D:\TuanDHH\NX\API\Com.Gosol.Security\bin\Release\net8.0\Com.Gosol.Security.dll
+D:\TuanDHH\NX\API\Com.Gosol.Security\bin\Release\net8.0\Com.Gosol.Security.pdb
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.csproj.AssemblyReference.cache
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.AssemblyInfoInputs.cache
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.AssemblyInfo.cs
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.csproj.CoreCompileInputs.cache
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.dll
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\refint\Com.Gosol.Security.dll
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.pdb
+D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\ref\Com.Gosol.Security.dll

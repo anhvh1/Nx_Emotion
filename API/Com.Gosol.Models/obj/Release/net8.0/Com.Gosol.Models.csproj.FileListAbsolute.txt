@@ -1,0 +1,15 @@
+D:\TuanDHH\NX\API\Com.Gosol.Models\bin\Release\net8.0\Com.Gosol.Models.deps.json
+D:\TuanDHH\NX\API\Com.Gosol.Models\bin\Release\net8.0\Com.Gosol.Models.dll
+D:\TuanDHH\NX\API\Com.Gosol.Models\bin\Release\net8.0\Com.Gosol.Models.pdb
+D:\TuanDHH\NX\API\Com.Gosol.Models\bin\Release\net8.0\Com.Gosol.Ultilities.dll
+D:\TuanDHH\NX\API\Com.Gosol.Models\bin\Release\net8.0\Com.Gosol.Ultilities.pdb
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Gosol.Models.csproj.AssemblyReference.cache
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Gosol.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Gosol.Models.AssemblyInfoInputs.cache
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Gosol.Models.AssemblyInfo.cs
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Gosol.Models.csproj.CoreCompileInputs.cache
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Goso.E5584EB2.Up2Date
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Gosol.Models.dll
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\refint\Com.Gosol.Models.dll
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\Com.Gosol.Models.pdb
+D:\TuanDHH\NX\API\Com.Gosol.Models\obj\Release\net8.0\ref\Com.Gosol.Models.dll

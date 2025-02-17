@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\TuanDHH\QuanLyVanHoa\BackEnd\Publish</_PublishTargetUrl>
+    <History>True|2024-05-06T08:30:06.7653377Z;True|2024-05-06T14:56:37.4534214+07:00;True|2024-05-06T11:02:46.7922332+07:00;True|2024-05-06T11:01:29.5960532+07:00;True|2024-05-06T10:33:21.4417823+07:00;True|2024-05-06T08:53:55.9781062+07:00;True|2024-05-06T08:53:45.0570361+07:00;True|2024-05-06T08:36:46.1488606+07:00;True|2024-05-06T08:33:35.9011465+07:00;True|2024-05-03T14:45:40.8502152+07:00;True|2024-05-03T10:57:55.1338429+07:00;True|2024-05-02T11:47:41.0697581+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SoureCode\\VHTT\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj": {}
+  },
+  "projects": {
+    "D:\\SoureCode\\VHTT\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoureCode\\VHTT\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj",
+        "projectName": "Com.Gosol.KNTC.DAL",
+        "projectPath": "D:\\SoureCode\\VHTT\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\SoureCode\\VHTT\\Com.Gosol.KNTC.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\SoureCode\\VHTT\\Com.Gosol.VHTT.Models\\Com.Gosol.VHTT.Models.csproj": {
+                "projectPath": "D:\\SoureCode\\VHTT\\Com.Gosol.VHTT.Models\\Com.Gosol.VHTT.Models.csproj"
+              },
+              "D:\\SoureCode\\VHTT\\Com.Gosol.VHTT.Security\\Com.Gosol.VHTT.Security.csproj": {
+                "projectPath": "D:\\SoureCode\\VHTT\\Com.Gosol.VHTT.Security\\Com.Gosol.VHTT.Security.csproj"
+              },
+              "D:\\SoureCode\\VHTT\\Com.Gosol.VHTT.Ultilities\\Com.Gosol.VHTT.Ultilities.csproj": {
+                "projectPath": "D:\\SoureCode\\VHTT\\Com.Gosol.VHTT.Ultilities\\Com.Gosol.VHTT.Ultilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.2, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "FreeSpire.Doc": {
+              "target": "Package",
+              "version": "[10.8.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Office.Interop.Word": {
+              "target": "Package",
+              "version": "[15.0.4797.1004, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.60.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.final, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

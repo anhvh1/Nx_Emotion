@@ -1,0 +1,36 @@
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.deps.json
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.csproj.AssemblyReference.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.AssemblyInfoInputs.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.AssemblyInfo.cs
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.csproj.CoreCompileInputs.cache
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\refint\Com.Gosol.VHTT.Ultilities.dll
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\GoSol\1. True\0.106. QuanLyVanHoa\BRVT\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\ref\Com.Gosol.VHTT.Ultilities.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.deps.json
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.csproj.AssemblyReference.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.AssemblyInfoInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.AssemblyInfo.cs
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.csproj.CoreCompileInputs.cache
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\refint\Com.Gosol.VHTT.Ultilities.dll
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\Works\1. Projects\2024. QuanLyVanHoa\New folder\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\ref\Com.Gosol.VHTT.Ultilities.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.deps.json
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\bin\Debug\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.csproj.AssemblyReference.cache
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.AssemblyInfoInputs.cache
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.AssemblyInfo.cs
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.csproj.CoreCompileInputs.cache
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\refint\Com.Gosol.VHTT.Ultilities.dll
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\Com.Gosol.VHTT.Ultilities.pdb
+D:\TuanDHH\QuanLyVanHoa\BackEnd\Com.Gosol.VHTT.Ultilities\obj\Debug\net8.0\ref\Com.Gosol.VHTT.Ultilities.dll

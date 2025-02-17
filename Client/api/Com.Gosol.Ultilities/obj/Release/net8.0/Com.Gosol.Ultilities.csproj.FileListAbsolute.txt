@@ -1,0 +1,12 @@
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\bin\Release\net8.0\Com.Gosol.Ultilities.deps.json
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\bin\Release\net8.0\Com.Gosol.Ultilities.dll
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\bin\Release\net8.0\Com.Gosol.Ultilities.pdb
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\Com.Gosol.Ultilities.csproj.AssemblyReference.cache
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\Com.Gosol.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\Com.Gosol.Ultilities.AssemblyInfoInputs.cache
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\Com.Gosol.Ultilities.AssemblyInfo.cs
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\Com.Gosol.Ultilities.csproj.CoreCompileInputs.cache
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\Com.Gosol.Ultilities.dll
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\refint\Com.Gosol.Ultilities.dll
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\Com.Gosol.Ultilities.pdb
+D:\TuanDHH\NX\API\Com.Gosol.Ultilities\obj\Release\net8.0\ref\Com.Gosol.Ultilities.dll
