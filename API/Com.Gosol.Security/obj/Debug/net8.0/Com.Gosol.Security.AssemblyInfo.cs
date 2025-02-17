@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Com.Gosol.Security")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba7614f88ee817655b10b7516bf36cf5629b4a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c641d851ee000abf8f51a8deaaca3c8831d2ef79")]
 [assembly: System.Reflection.AssemblyProductAttribute("Com.Gosol.Security")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Com.Gosol.Security")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
