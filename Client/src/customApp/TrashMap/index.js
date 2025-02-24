@@ -141,83 +141,93 @@ const ZoomableImage = () => {
       }
     };
   }, []);
-
+  const [isDragging, setIsDragging] = useState(false);
   return (
     <div
-      className="zoom-container"
-      style={{
-        overflow: "hidden",
-        width: "100%",
-        height: "100%",
-        position: "relative",
-      }}
+    className="zoom-container"
+    style={{
+      overflow: "hidden",
+      width: "100%",
+      height: "100%",
+      position: "relative",
+      cursor: isDragging ? "grabbing" : "grab", // Thay đổi con trỏ chuột
+    }}
+    onMouseDown={() => setIsDragging(true)}
+    onMouseUp={() => setIsDragging(false)}
+    onMouseLeave={() => setIsDragging(false)} // Nếu rời khỏi khu vực ảnh, reset trạng thái
+  >
+    <TransformWrapper
+      initialScale={1}
+      alignmentAnimation={{ sizeX: 0, sizeY: 0 }}
+      minScale={1}
+      maxScale={5}
+      wheel={{ step: 0.1 }}
+      limitToBounds={true}
+      panning={{ disabled: false }}
+      doubleClick={{ disabled: true }}
+      pinch={{ disabled: false }}
+      centerZoomedOut={true}
     >
-      <TransformWrapper
-        initialScale={1}
-        alignmentAnimation={{ sizeX: 0, sizeY: 0 }}
-        minScale={1}
-        maxScale={5}
-        wheel={{ step: 0.1 }}
-        limitToBounds={true}
-        panning={{ disabled: false }}
-        doubleClick={{ disabled: true }}
-        pinch={{ disabled: false }}
-        centerZoomedOut={true}
-      >
-        <TransformComponent>
-          <div
-            style={{ position: "relative", width: "100vw", height: "100vh" }}
-          >
-            <img
-              src={TrashMap}
-              alt="Zoomable"
-              style={{ width: "100%", height: "100%", display: "block" }}
-            />
-            {smileyPositions.map((pos, index) => (
-              <Tooltip
-                title={pos.title}
-                overlayStyle={{ zIndex: 9999 }}
-                color="blue"
-                key={index}
+      <TransformComponent>
+        <div
+          style={{ position: "relative", width: "100vw", height: "100vh" }}
+        >
+          <img
+            src={TrashMap}
+            alt="Zoomable"
+            style={{
+              width: "100%",
+              height: "100%",
+              display: "block",
+              userSelect: "none", // Ngăn chặn việc bôi đen ảnh khi kéo chuột
+              cursor: isDragging ? "grabbing" : "grab", // Thay đổi con trỏ chuột khi kéo
+            }}
+          />
+          {smileyPositions.map((pos, index) => (
+            <Tooltip
+              title={pos.title}
+              overlayStyle={{ zIndex: 9999 }}
+              color="blue"
+              key={index}
+            >
+              <div
+                style={{
+                  position: "absolute",
+                  top: pos.top,
+                  left: pos.left,
+                  cursor: "pointer",
+                  zIndex: 10,
+                  width: "50px",
+                  height: "50px",
+                  transition: "transform 0.3s, filter 0.3s",
+                  background: "white",
+                  borderRadius: "50%",
+                  padding: "5px",
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.transform = "scale(1.2) rotate(10deg)";
+                  e.currentTarget.style.filter = "brightness(1.2)";
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.transform = "scale(1) rotate(0deg)";
+                  e.currentTarget.style.filter = "brightness(1)";
+                }}
               >
-                <div
+                <img
+                  src={pos.src}
+                  alt={pos.title}
                   style={{
-                    position: "absolute",
-                    top: pos.top,
-                    left: pos.left,
-                    cursor: "pointer",
-                    zIndex: 10,
-                    width: "50px",
-                    height: "50px",
-                    transition: "transform 0.3s, filter 0.3s", 
-                    background: "white",
-                    borderRadius:"50%",
-                    padding:"5px"
+                    width: "40px",
+                    height: "40px",
                   }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.transform = "scale(1.2) rotate(10deg)"; 
-                    e.currentTarget.style.filter = "brightness(1.2)";
-                  }} 
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.transform = "scale(1) rotate(0deg)"; 
-                    e.currentTarget.style.filter = "brightness(1)";
-                  }} 
-                >
-                  <img
-                    src={pos.src}
-                    alt={pos.title}
-                    style={{
-                      width: "40px",
-                      height: "40px",
-                    }}
-                  />
-                </div>
-              </Tooltip>
-            ))}
-          </div>
-        </TransformComponent>
-      </TransformWrapper>
-    </div>
+                />
+              </div>
+            </Tooltip>
+          ))}
+        </div>
+      </TransformComponent>
+    </TransformWrapper>
+  </div>
   );
 };
 
