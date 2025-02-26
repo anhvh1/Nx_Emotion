@@ -18,7 +18,7 @@ const getEmojiData = (value) => {
     case 4:
       return { src: emotion, title: "Bình thường" };
     default:
-      return { src: happy, title: "Vui vẻ" };
+      return { src: emotion, title: "emotion" };
   }
 };
 
@@ -30,26 +30,23 @@ const ZoomableImage = () => {
   console.log(typeEmotion2);
 
   const a = typeEmotion1;
-  const b = 2;
-  const c = typeEmotion2;
+  const b = typeEmotion2;
+  const c = 4;
   const d = 2;
   const e = 1;
   const f = 3;
-  const g = typeEmotion2;
+  const g = 2;
   const h = 2;
   const i = 3;
   const k = 1;
   const smileyPositions = [
-    { top: "88%", left: "24%", ...getEmojiData(a) },
-    { top: "70%", left: "63%", ...getEmojiData(b) },
-    { top: "60%", left: "75%", ...getEmojiData(c) },
-    { top: "50%", left: "60%", ...getEmojiData(d) },
+    { top: "78%", left: "14%", ...getEmojiData(a) },
+    { top: "82%", left: "47%", ...getEmojiData(b) },
+    { top: "85%", left: "80%", ...getEmojiData(c) },
     { top: "10%", left: "85%", ...getEmojiData(e) },
     { top: "30%", left: "44%", ...getEmojiData(f) },
     { top: "20%", left: "30%", ...getEmojiData(g) },
     { top: "15%", left: "20%", ...getEmojiData(h) },
-    { top: "53%", left: "32%", ...getEmojiData(i) },
-    { top: "55%", left: "42%", ...getEmojiData(k) },
   ];
   const [message, setMessage] = useState("");
   const [connectionStatus, setConnectionStatus] = useState("Disconnected");
