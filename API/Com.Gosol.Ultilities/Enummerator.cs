@@ -102,11 +102,11 @@ namespace Com.Gosol.VHTT.Ultilities
         FileAnhDaiDien = 1,
         FileHuongDanSuDung = 2,
         FileCauHinhHeThong = 3,
-        FileQuanLyDiTichToanTinh=4,
-        FileQuanLyBaoVatQuocGia=5,
-        FileQuanLyBaoTang=6,
-        FileQuanLyHienVatBaoTang=7,
-        FileQuanLyDiSanVanHoaPhiVatThe=8,
+        FileQuanLyDiTichToanTinh = 4,
+        FileQuanLyBaoVatQuocGia = 5,
+        FileQuanLyBaoTang = 6,
+        FileQuanLyHienVatBaoTang = 7,
+        FileQuanLyDiSanVanHoaPhiVatThe = 8,
     }
     public enum EnumLoaiLog
     {
@@ -149,10 +149,10 @@ namespace Com.Gosol.VHTT.Ultilities
         [Description("Di sản tư liệu")]
         DISANTULIEU = 12,
         [Description("Di sản văn hóa phi vật thể")]
-        DISANVANHOAPHIVATTHE = 13, 
+        DISANVANHOAPHIVATTHE = 13,
         [Description("Danh mục thư viện")]
         DMThuVien = 14,
-        
+
 
     }
 
@@ -218,7 +218,7 @@ namespace Com.Gosol.VHTT.Ultilities
         BODY_GHICHU = 203,
         [Description("tháng/ năm")]//theo biểu mẫu nghiệp vụ
         BODY_THANGNAM = 204,
-        
+
         [Description("Lưu Nhận")]// bên trái
         BOT_LUUNHAN = 301,
         [Description("Phần ngày tháng")]// phải
@@ -229,7 +229,13 @@ namespace Com.Gosol.VHTT.Ultilities
         BOT_NGUOIKY = 304,
     }
 
-    
+    public enum Emotion
+    {
+        Happy = 1,
+        Angry = 2,
+        Sad = 3,
+        None = 4,
+    }
 
     #endregion
     public static class EnumExtensions
