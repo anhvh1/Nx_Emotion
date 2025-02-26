@@ -10,3 +10,16 @@ D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.dll
 D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\refint\Com.Gosol.Security.dll
 D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.pdb
 D:\TuanDHH\NX\API\Com.Gosol.Security\obj\Release\net8.0\ref\Com.Gosol.Security.dll
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\bin\Release\net8.0\Com.Gosol.Security.deps.json
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\bin\Release\net8.0\Com.Gosol.Security.dll
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\bin\Release\net8.0\Com.Gosol.Security.pdb
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.csproj.AssemblyReference.cache
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.AssemblyInfoInputs.cache
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.AssemblyInfo.cs
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.csproj.CoreCompileInputs.cache
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.sourcelink.json
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.dll
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\refint\Com.Gosol.Security.dll
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\Com.Gosol.Security.pdb
+D:\PhiNV\NX_Emotion\Nx_Emotion\API\Com.Gosol.Security\obj\Release\net8.0\ref\Com.Gosol.Security.dll
