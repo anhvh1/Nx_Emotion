@@ -18,7 +18,7 @@ const getEmojiData = (value) => {
     case 4:
       return { src: emotion, title: "Bình thường" };
     default:
-      return { src: emotion, title: "emotion" };
+      return { src: emotion, title: "Bình thường" };
   }
 };
 
@@ -34,15 +34,15 @@ const ZoomableImage = () => {
   const c = 4;
   const d = 2;
   const e = 1;
-  const f = 3;
-  const g = 2;
-  const h = 2;
+  const f = 2;
+  const g = 1;
+  const h = 1;
   const i = 3;
   const k = 1;
   const smileyPositions = [
-    { top: "78%", left: "14%", ...getEmojiData(a) },
-    { top: "82%", left: "47%", ...getEmojiData(b) },
-    { top: "85%", left: "80%", ...getEmojiData(c) },
+    { top: "78%", left: "27%", ...getEmojiData(a) },
+    { top: "52%", left: "43%", ...getEmojiData(b) },
+    { top: "65%", left: "57%", ...getEmojiData(c) },
     { top: "10%", left: "85%", ...getEmojiData(e) },
     { top: "30%", left: "44%", ...getEmojiData(f) },
     { top: "20%", left: "30%", ...getEmojiData(g) },
