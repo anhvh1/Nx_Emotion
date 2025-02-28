@@ -62,7 +62,7 @@ namespace Com.Gosol.DAL.NghiepVu
                 };
                 var parameters = new Dictionary<string, object>
                 {
-                    {"StartDateInt",ConvertDateTimeToInt32( DateTime.Now.AddMinutes(-1) )},
+                    {"StartDateInt",ConvertDateTimeToInt32( DateTime.Now.AddSeconds(-10) )},
                     {"EndDateInt",ConvertDateTimeToInt32(DateTime.Now) },
                     //{"IdCamera",idCamera },
                 };

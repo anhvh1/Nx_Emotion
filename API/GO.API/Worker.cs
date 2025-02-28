@@ -5,7 +5,7 @@ namespace GO.API
     public class Worker : BackgroundService
     {
         private readonly IHubContext<Socket> _hubContext;
-        private readonly TimeSpan _interval = TimeSpan.FromMinutes(1);
+        private readonly TimeSpan _interval = TimeSpan.FromSeconds(3);
 
         public Worker(IHubContext<Socket> hubContext)
         {
