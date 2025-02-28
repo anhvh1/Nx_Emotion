@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8819e67f.css",
+    "main.js": "/static/js/main.c9079f61.js",
+    "static/media/So_do_tham_quan_chua_Tam_Chuc.jpg": "/static/media/So_do_tham_quan_chua_Tam_Chuc.d5415ffcc56fe76a142e.jpg",
+    "static/media/sad.png": "/static/media/sad.2cc7d8f48c2500388c4c.png",
+    "static/media/grinning-face.png": "/static/media/grinning-face.e0c916d7c4cfd60eccb4.png",
+    "static/media/emoji.png": "/static/media/emoji.1b4f5c64248c06022e0e.png",
+    "static/media/angry.png": "/static/media/angry.23f6585f872524af6240.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8819e67f.css",
+    "static/js/main.c9079f61.js"
+  ]
+}
